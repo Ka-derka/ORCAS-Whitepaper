@@ -485,5 +485,8 @@ The system knows what it knows. It knows what it does not. It asks when it is un
 *ORCAS — Orchestrated Router-Council ASI System*
 *Concept Paper v0.2 — June 2026*
 
-*This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-https://creativecommons.org/licenses/by-sa/4.0/*
+---
+
+© 2026 [Ash Lost]. This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You are free to share and adapt this work for non-commercial purposes with appropriate attribution. Commercial use requires explicit written permission from the copyright holder.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
